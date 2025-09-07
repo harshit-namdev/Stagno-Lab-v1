@@ -34,7 +34,6 @@
 - **Progress Indicators** - Live status updates during processing
 
 ### 📁 **File Management**
-- **Multi-format Support** - PNG, JPG, JPEG, BMP, GIF compatibility
 - **Smart File Naming** - Unique timestamp-based file generation
 - **Secure Downloads** - Protected file serving with access controls
 - **Automatic Cleanup** - Temporary file management and storage optimization
@@ -69,7 +68,6 @@
 ## 🎨 Interface Highlights
 
 - **Modern Material Design** - Clean, professional interface
-- **Dark/Light Theme Support** - Adaptive UI for all preferences  
 - **Mobile Responsive** - Perfect experience across all devices
 - **Intuitive Workflow** - Step-by-step guided process
 - **Visual Feedback** - Real-time status and progress indicators
