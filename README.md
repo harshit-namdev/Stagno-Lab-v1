@@ -11,6 +11,18 @@
 
 </div>
 
+## 📸 Application Screenshots
+
+<div align="center">
+
+### Main Dashboard Interface
+![Stagno Dashboard](Resources/stagno1.2img-1.png)
+
+### Steganography Processing
+![Stagno Processing](Resources/stagno1.2img-2.png)
+
+</div>
+
 ---
 
 ## ✨ Features
